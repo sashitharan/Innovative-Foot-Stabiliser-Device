@@ -56,6 +56,7 @@ Existing items on the market fail to offer adequate dorsiflexion to the foot as 
 
 # Ngee Ann Mechanical Engineering Innovation Week
 Presenting to a Podiatry Doctor from NUH
+<br />
 <img src="images/IMG_8153.jpeg" alt="Logo" width="700" height="450">
 <img src="images/IMG_8152.jpeg" alt="Logo" width="700" height="450">
 <img src="images/IMG_8154.jpeg" alt="Logo" width="700" height="450">
@@ -69,7 +70,7 @@ cheers xx
 
 <!-- CONTACT -->
 # Contact
-Lets Connect - [@Sashitharan](https://www.linkedin.com/in/sashitharan/) - sarsheyy@gmail.com
+Lets Connect at LinkedIn - [@Sashitharan](https://www.linkedin.com/in/sashitharan/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
