@@ -60,8 +60,15 @@ Presenting to a Podiatry Doctor from NUH
 <img src="images/IMG_8152.jpeg" alt="Logo" width="700" height="450">
 <img src="images/IMG_8154.jpeg" alt="Logo" width="700" height="450">
 
+
+
+# Gratitute
+Thank you for stopping by! If you're interested, you may browse through the project documentation in the Project Documentation directory.
+Enjoy your day!
+cheers xx
+
 <!-- CONTACT -->
-## Contact
+# Contact
 Lets Connect - [@Sashitharan](https://www.linkedin.com/in/sashitharan/) - sarsheyy@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
