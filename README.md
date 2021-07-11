@@ -23,13 +23,11 @@
       <a href="#about-the-project">About The Project</a>
     </li>
       <li>
-      <a href="#Tan-Kah-Kee-Award">Tan Kah Kee Award Recipients</a>
+      <a href="#Tan-Kah-Kee-Award">Tan Kah Kee Award 2016</a>
      </li>
      <li>
       <a href="#ME-Innovation-Week">Presentation on ME Innovation Week</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
