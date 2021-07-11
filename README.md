@@ -26,7 +26,7 @@
       <a href="#Tan-Kah-Kee-Award">Tan Kah Kee Award 2016</a>
      </li>
      <li>
-      <a href="#ME-Innovation-Week">Presentation on ME Innovation Week</a>
+      <a href="#Ngee-Ann-Mechanical-Engineering-Innovation-Week">Presentation on ME Innovation Week</a>
     </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
